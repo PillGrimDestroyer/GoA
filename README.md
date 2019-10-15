@@ -5,4 +5,4 @@
 Регулярка.
 
 ## Где компилить?
-вот [тут](https://www.tutorialspoint.com/execute_golang_online.php)
+вот [тут](https://play.golang.org)
